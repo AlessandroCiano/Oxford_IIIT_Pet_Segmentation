@@ -10,7 +10,7 @@ This project explores and compares different deep learning models for segmenting
 
 The repository includes the following files:
 
-* **augmentation.py:** Contains code for applying various data augmentation techniques, including geometric transformations, color-based adjustments, and noise-based perturbations[cite: 42, 43, 44, 45, 46, 47, 48, 49, 50, 653, 654].
+* **augmentation.py:** Contains code for applying various data augmentation techniques, including geometric transformations, color-based adjustments, and noise-based perturbations.
    
 * **checking.ipynb:** Jupyter Notebook for checking or debugging purposes.
    
